@@ -1,12 +1,12 @@
 {
-  "tenant": "dummyData4",
-  "metadataType": "dummyData2",
-  "fileName": "dummyData2",
+  "tenant": "abc",
+  "metadataType": "product",
+  "fileName": "test.xls",
   "contractProduct": [
     {
-      "recordId": "dummyData",
+      "recordId": "23",
       "status": "dummyData",
-      "startDate": "dummyData",
+      "startDate": "06/16/2022",
       "productCategoryCode": "dummyData",
       "productCustomerGroupId": "dummyData",
       "productCustomerGroup": "dummyData",
