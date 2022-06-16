@@ -2,6 +2,7 @@
   "tenant": "abc",
   "metadataType": "product",
   "fileName": "test.xls",
+  "documentId": "Dummy Id",
   "contractProduct": [
     {
       "recordId": "23",
