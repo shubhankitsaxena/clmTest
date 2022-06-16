@@ -1,1 +1,25 @@
-{"fileName":"dummyData1","contractProduct":[{"productCategoryCode":"dummyData","productCustomerGroup":"dummyData","includeExcludeCondition":"dummyData","originSource":"dummyData","actionRestrictionCe":"dummyData","stateRestrictionCe":"dummyData","userId":"dummyData","productName":"dummyData","referenceId":"dummyData","recordId":"dummyData","productCustomerGroupId":"dummyData","paperTypeRestrictionCe":"dummyData","startDate":"dummyData","productDescription":"dummyData","status":"dummyData","createDate":"dummyData"}],"tenant":"dummyData1","metadataType":"dummyData1"}
+{
+  "tenant": "dummyData2",
+  "metadataType": "dummyData2",
+  "fileName": "dummyData2",
+  "contractProduct": [
+    {
+      "recordId": "dummyData",
+      "status": "dummyData",
+      "startDate": "dummyData",
+      "productCategoryCode": "dummyData",
+      "productCustomerGroupId": "dummyData",
+      "productCustomerGroup": "dummyData",
+      "productName": "dummyData",
+      "referenceId": "dummyData",
+      "productDescription": "dummyData",
+      "actionRestrictionCe": "dummyData",
+      "stateRestrictionCe": "dummyData",
+      "paperTypeRestrictionCe": "dummyData",
+      "includeExcludeCondition": "dummyData",
+      "originSource": "dummyData",
+      "createDate": "dummyData",
+      "userId": "dummyData"
+    }
+  ]
+}
