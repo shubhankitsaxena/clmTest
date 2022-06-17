@@ -1,8 +1,8 @@
 {
   "tenant": "abcd",
   "metadataType": "new product",
-  "fileName": "newtest.xls",
-  "documentId": "Dummy Id1",
+  "fileName": "test.xls",
+  "documentId": "Dummy Id",
   "contractProduct": [
     {
       "recordId": "23",
