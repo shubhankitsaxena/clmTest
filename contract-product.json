@@ -1,0 +1,26 @@
+{
+  "tenant": "abcd",
+  "metadataType": "new product",
+  "fileName": "newtest.xls",
+  "documentId": "Dummy Id1",
+  "contractProduct": [
+    {
+      "recordId": "23",
+      "status": "dummyData",
+      "startDate": "06/16/2022",
+      "productCategoryCode": "dummyData",
+      "productCustomerGroupId": "dummyData",
+      "productCustomerGroup": "dummyData",
+      "productName": "dummyData",
+      "referenceId": "dummyData",
+      "productDescription": "dummyData",
+      "actionRestrictionCe": "dummyData",
+      "stateRestrictionCe": "dummyData",
+      "paperTypeRestrictionCe": "dummyData",
+      "includeExcludeCondition": "dummyData",
+      "originSource": "dummyData",
+      "createDate": "dummyData",
+      "userId": "dummyData"
+    }
+  ]
+}
